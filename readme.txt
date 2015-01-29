@@ -1,6 +1,6 @@
 === MojTv plugin ===
 Contributors: WebMasterJ
-Tags: mojtv feed, tv programmeschedule
+Tags: mojtv feed, tv programme schedule
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 0.1

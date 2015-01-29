@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<mojtv>
+	<channel>
+		<id>435</id><name>24Kitchen</name><url>http://mojtv.net/kanal/tv-program/435/24kitchen.aspx</url>
+	</channel>
+	<channel>
+		<id>97</id><name>3SAT</name><url>http://mojtv.net/kanal/tv-program/97/3sat.aspx</url>
+	</channel>
+	<channel>
+		<id>131</id><name>Adult Channel</name><url>http://mojtv.net/kanal/tv-program/131/adult-channel.aspx</url>
+	</channel>
+	<channel>
+		<id>270</id><name>Al Jazeera Balkans</name><url>http://mojtv.net/kanal/tv-program/270/al-jazeera-balkans.aspx</url>
+	</channel>
+	<channel>
+		<id>271</id><name>Al Jazeera Int</name><url>http://mojtv.net/kanal/tv-program/271/al-jazeera-int.aspx</url>
+	</channel>
+	<channel>
+		<id>437</id><name>AMC</name><url>http://mojtv.net/kanal/tv-program/437/amc.aspx</url>
+	</channel>
+	<channel>
+		<id>58</id><name>Animal Planet</name><url>http://mojtv.net/kanal/tv-program/58/animal-planet.aspx</url>
+	</channel>
+	<channel>
+		<id>349</id><name>Arena Sport 1</name><url>http://mojtv.net/kanal/tv-program/349/arena-sport-1.aspx</url>
+	</channel>
+	<channel>
+		<id>350</id><name>Arena Sport 2</name><url>http://mojtv.net/kanal/tv-program/350/arena-sport-2.aspx</url>
+	</channel>
+	<channel>
+		<id>351</id><name>Arena Sport 3</name><url>http://mojtv.net/kanal/tv-program/351/arena-sport-3.aspx</url>
+	</channel>
+	<channel>
+		<id>352</id><name>Arena Sport 4</name><url>http://mojtv.net/kanal/tv-program/352/arena-sport-4.aspx</url>
+	</channel>
+	<channel>
+		<id>398</id><name>Arena Sport 5</name><url>http://mojtv.net/kanal/tv-program/398/arena-sport-5.aspx</url>
+	</channel>
+	<channel>
+		<id>126</id><name>Arte</name><url>http://mojtv.net/kanal/tv-program/126/arte.aspx</url>
+	</channel>
+	<channel>
+		<id>157</id><name>Arte HD</name><url>http://mojtv.net/kanal/tv-program/157/arte-hd.aspx</url>
+	</channel>
+	<channel>
+		<id>39</id><name>ATV</name><url>http://mojtv.net/kanal/tv-program/39/atv.aspx</url>
+	</channel>
+	<channel>
+		<id>445</id><name>AXN</name><url>http://mojtv.net/kanal/tv-program/445/axn.aspx</url>
+	</channel>
+	<channel>
+		<id>31</id><name>B92</name><url>http://mojtv.net/kanal/tv-program/31/b92.aspx</url>
+	</channel>
+	<channel>
+		<id>71</id><name>B92 Info</name><url>http://mojtv.net/kanal/tv-program/71/b92-info.aspx</url>
+	</channel>
+	<channel>
+		<id>167</id><name>Baby TV</name><url>http://mojtv.net/kanal/tv-program/167/baby-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>44</id><name>BBC Entertainment</name><url>http://mojtv.net/kanal/tv-program/44/bbc-entertainment.aspx</url>
+	</channel>
+	<channel>
+		<id>266</id><name>BBC World</name><url>http://mojtv.net/kanal/tv-program/266/bbc-world.aspx</url>
+	</channel>
+	<channel>
+		<id>24</id><name>BHT1</name><url>http://mojtv.net/kanal/tv-program/24/bht1.aspx</url>
+	</channel>
+	<channel>
+		<id>80</id><name>Bloomberg</name><url>http://mojtv.net/kanal/tv-program/80/bloomberg.aspx</url>
+	</channel>
+	<channel>
+		<id>129</id><name>Blue Hustler</name><url>http://mojtv.net/kanal/tv-program/129/blue-hustler.aspx</url>
+	</channel>
+	<channel>
+		<id>283</id><name>BN SAT</name><url>http://mojtv.net/kanal/tv-program/283/bn-sat.aspx</url>
+	</channel>
+	<channel>
+		<id>263</id><name>BN Televizija</name><url>http://mojtv.net/kanal/tv-program/263/bn-televizija.aspx</url>
+	</channel>
+	<channel>
+		<id>149</id><name>Body in balance</name><url>http://mojtv.net/kanal/tv-program/149/body-in-balance.aspx</url>
+	</channel>
+	<channel>
+		<id>54</id><name>Boomerang</name><url>http://mojtv.net/kanal/tv-program/54/boomerang.aspx</url>
+	</channel>
+	<channel>
+		<id>130</id><name>Brazzers TV</name><url>http://mojtv.net/kanal/tv-program/130/brazzers-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>220</id><name>Brio</name><url>http://mojtv.net/kanal/tv-program/220/brio.aspx</url>
+	</channel>
+	<channel>
+		<id>163</id><name>Canale 5</name><url>http://mojtv.net/kanal/tv-program/163/canale-5.aspx</url>
+	</channel>
+	<channel>
+		<id>248</id><name>Cartoon Network RSE</name><url>http://mojtv.net/kanal/tv-program/248/cartoon-network-rse.aspx</url>
+	</channel>
+	<channel>
+		<id>450</id><name>CBS Drama</name><url>http://mojtv.net/kanal/tv-program/450/cbs-drama.aspx</url>
+	</channel>
+	<channel>
+		<id>451</id><name>CBS Reality</name><url>http://mojtv.net/kanal/tv-program/451/cbs-reality.aspx</url>
+	</channel>
+	<channel>
+		<id>268</id><name>CCTV</name><url>http://mojtv.net/kanal/tv-program/268/cctv.aspx</url>
+	</channel>
+	<channel>
+		<id>358</id><name>Cinema TV</name><url>http://mojtv.net/kanal/tv-program/358/cinema-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>30</id><name>Cinemania</name><url>http://mojtv.net/kanal/tv-program/30/cinemania.aspx</url>
+	</channel>
+	<channel>
+		<id>368</id><name>Cinemax</name><url>http://mojtv.net/kanal/tv-program/368/cinemax.aspx</url>
+	</channel>
+	<channel>
+		<id>369</id><name>Cinemax 2</name><url>http://mojtv.net/kanal/tv-program/369/cinemax-2.aspx</url>
+	</channel>
+	<channel>
+		<id>372</id><name>Cinestar Action &amp; Thriller</name><url>http://mojtv.net/kanal/tv-program/372/cinestar-action--thriller.aspx</url>
+	</channel>
+	<channel>
+		<id>373</id><name>Cinestar Premiere 1</name><url>http://mojtv.net/kanal/tv-program/373/cinestar-premiere-1.aspx</url>
+	</channel>
+	<channel>
+		<id>374</id><name>Cinestar Premiere 2</name><url>http://mojtv.net/kanal/tv-program/374/cinestar-premiere-2.aspx</url>
+	</channel>
+	<channel>
+		<id>371</id><name>Cinestar TV</name><url>http://mojtv.net/kanal/tv-program/371/cinestar-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>135</id><name>C-Music</name><url>http://mojtv.net/kanal/tv-program/135/cmusic.aspx</url>
+	</channel>
+	<channel>
+		<id>79</id><name>CNBC</name><url>http://mojtv.net/kanal/tv-program/79/cnbc.aspx</url>
+	</channel>
+	<channel>
+		<id>323</id><name>Comedy Central Extra</name><url>http://mojtv.net/kanal/tv-program/323/comedy-central-extra.aspx</url>
+	</channel>
+	<channel>
+		<id>269</id><name>Da Vinci Learning</name><url>http://mojtv.net/kanal/tv-program/269/da-vinci-learning.aspx</url>
+	</channel>
+	<channel>
+		<id>282</id><name>Da Vinci U</name><url>http://mojtv.net/kanal/tv-program/282/da-vinci-u.aspx</url>
+	</channel>
+	<channel>
+		<id>305</id><name>Dance Trippin</name><url>http://mojtv.net/kanal/tv-program/305/dance-trippin.aspx</url>
+	</channel>
+	<channel>
+		<id>226</id><name>Daring! TV</name><url>http://mojtv.net/kanal/tv-program/226/daring-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>150</id><name>Das Erste</name><url>http://mojtv.net/kanal/tv-program/150/das-erste.aspx</url>
+	</channel>
+	<channel>
+		<id>170</id><name>Das Erste HD</name><url>http://mojtv.net/kanal/tv-program/170/das-erste-hd.aspx</url>
+	</channel>
+	<channel>
+		<id>288</id><name>Deutsche Welle</name><url>http://mojtv.net/kanal/tv-program/288/deutsche-welle.aspx</url>
+	</channel>
+	<channel>
+		<id>57</id><name>Discovery Channel</name><url>http://mojtv.net/kanal/tv-program/57/discovery-channel.aspx</url>
+	</channel>
+	<channel>
+		<id>59</id><name>Discovery Science</name><url>http://mojtv.net/kanal/tv-program/59/discovery-science.aspx</url>
+	</channel>
+	<channel>
+		<id>60</id><name>Discovery World</name><url>http://mojtv.net/kanal/tv-program/60/discovery-world.aspx</url>
+	</channel>
+	<channel>
+		<id>297</id><name>Disney Channel</name><url>http://mojtv.net/kanal/tv-program/297/disney-channel.aspx</url>
+	</channel>
+	<channel>
+		<id>298</id><name>Disney Junior</name><url>http://mojtv.net/kanal/tv-program/298/disney-junior.aspx</url>
+	</channel>
+	<channel>
+		<id>316</id><name>Disney XD</name><url>http://mojtv.net/kanal/tv-program/316/disney-xd.aspx</url>
+	</channel>
+	<channel>
+		<id>249</id><name>DM Sat</name><url>http://mojtv.net/kanal/tv-program/249/dm-sat.aspx</url>
+	</channel>
+	<channel>
+		<id>185</id><name>Doma TV</name><url>http://mojtv.net/kanal/tv-program/185/doma-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>259</id><name>Dorcel TV</name><url>http://mojtv.net/kanal/tv-program/259/dorcel-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>144</id><name>Duck TV</name><url>http://mojtv.net/kanal/tv-program/144/duck-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>82</id><name>E! Entertainment</name><url>http://mojtv.net/kanal/tv-program/82/e-entertainment.aspx</url>
+	</channel>
+	<channel>
+		<id>78</id><name>Euronews</name><url>http://mojtv.net/kanal/tv-program/78/euronews.aspx</url>
+	</channel>
+	<channel>
+		<id>50</id><name>Eurosport</name><url>http://mojtv.net/kanal/tv-program/50/eurosport.aspx</url>
+	</channel>
+	<channel>
+		<id>51</id><name>Eurosport 2</name><url>http://mojtv.net/kanal/tv-program/51/eurosport-2.aspx</url>
+	</channel>
+	<channel>
+		<id>188</id><name>Eurosport HD</name><url>http://mojtv.net/kanal/tv-program/188/eurosport-hd.aspx</url>
+	</channel>
+	<channel>
+		<id>169</id><name>Eurosportnews</name><url>http://mojtv.net/kanal/tv-program/169/eurosportnews.aspx</url>
+	</channel>
+	<channel>
+		<id>66</id><name>Extreme Sports</name><url>http://mojtv.net/kanal/tv-program/66/extreme-sports.aspx</url>
+	</channel>
+	<channel>
+		<id>81</id><name>Fashion Tv</name><url>http://mojtv.net/kanal/tv-program/81/fashion-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>280</id><name>Fight Channel</name><url>http://mojtv.net/kanal/tv-program/280/fight-channel.aspx</url>
+	</channel>
+	<channel>
+		<id>318</id><name>Fine Living Network</name><url>http://mojtv.net/kanal/tv-program/318/fine-living-network.aspx</url>
+	</channel>
+	<channel>
+		<id>284</id><name>Fishing And Hunting</name><url>http://mojtv.net/kanal/tv-program/284/fishing-and-hunting.aspx</url>
+	</channel>
+	<channel>
+		<id>265</id><name>Food Network</name><url>http://mojtv.net/kanal/tv-program/265/food-network.aspx</url>
+	</channel>
+	<channel>
+		<id>404</id><name>Fox</name><url>http://mojtv.net/kanal/tv-program/404/fox.aspx</url>
+	</channel>
+	<channel>
+		<id>397</id><name>Fox Crime</name><url>http://mojtv.net/kanal/tv-program/397/fox-crime.aspx</url>
+	</channel>
+	<channel>
+		<id>396</id><name>Fox Life</name><url>http://mojtv.net/kanal/tv-program/396/fox-life.aspx</url>
+	</channel>
+	<channel>
+		<id>403</id><name>Fox Movies</name><url>http://mojtv.net/kanal/tv-program/403/fox-movies.aspx</url>
+	</channel>
+	<channel>
+		<id>334</id><name>Fox News</name><url>http://mojtv.net/kanal/tv-program/334/fox-news.aspx</url>
+	</channel>
+	<channel>
+		<id>272</id><name>France 24</name><url>http://mojtv.net/kanal/tv-program/272/france-24.aspx</url>
+	</channel>
+	<channel>
+		<id>25</id><name>FTV</name><url>http://mojtv.net/kanal/tv-program/25/ftv.aspx</url>
+	</channel>
+	<channel>
+		<id>359</id><name>Fuel TV</name><url>http://mojtv.net/kanal/tv-program/359/fuel-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>311</id><name>GINX</name><url>http://mojtv.net/kanal/tv-program/311/ginx.aspx</url>
+	</channel>
+	<channel>
+		<id>278</id><name>Happy TV</name><url>http://mojtv.net/kanal/tv-program/278/happy-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>35</id><name>Hayat TV</name><url>http://mojtv.net/kanal/tv-program/35/hayat-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>366</id><name>HBO</name><url>http://mojtv.net/kanal/tv-program/366/hbo.aspx</url>
+	</channel>
+	<channel>
+		<id>367</id><name>HBO Comedy</name><url>http://mojtv.net/kanal/tv-program/367/hbo-comedy.aspx</url>
+	</channel>
+	<channel>
+		<id>442</id><name>History Channel</name><url>http://mojtv.net/kanal/tv-program/442/history-channel.aspx</url>
+	</channel>
+	<channel>
+		<id>382</id><name>Horror Channel</name><url>http://mojtv.net/kanal/tv-program/382/horror-channel.aspx</url>
+	</channel>
+	<channel>
+		<id>341</id><name>HTV 4</name><url>http://mojtv.net/kanal/tv-program/341/htv-4.aspx</url>
+	</channel>
+	<channel>
+		<id>1</id><name>HTV1</name><url>http://mojtv.net/kanal/tv-program/1/htv1.aspx</url>
+	</channel>
+	<channel>
+		<id>2</id><name>HTV2</name><url>http://mojtv.net/kanal/tv-program/2/htv2.aspx</url>
+	</channel>
+	<channel>
+		<id>310</id><name>HTV3</name><url>http://mojtv.net/kanal/tv-program/310/htv3.aspx</url>
+	</channel>
+	<channel>
+		<id>128</id><name>Hustler</name><url>http://mojtv.net/kanal/tv-program/128/hustler.aspx</url>
+	</channel>
+	<channel>
+		<id>256</id><name>Investigation Discovery</name><url>http://mojtv.net/kanal/tv-program/256/investigation-discovery.aspx</url>
+	</channel>
+	<channel>
+		<id>162</id><name>Italia 1</name><url>http://mojtv.net/kanal/tv-program/162/italia-1.aspx</url>
+	</channel>
+	<channel>
+		<id>154</id><name>JimJam</name><url>http://mojtv.net/kanal/tv-program/154/jimjam.aspx</url>
+	</channel>
+	<channel>
+		<id>18</id><name>Kanal A</name><url>http://mojtv.net/kanal/tv-program/18/kanal-a.aspx</url>
+	</channel>
+	<channel>
+		<id>381</id><name>Kanal6HD</name><url>http://mojtv.net/kanal/tv-program/381/kanal6hd.aspx</url>
+	</channel>
+	<channel>
+		<id>301</id><name>KCN Kopernikus</name><url>http://mojtv.net/kanal/tv-program/301/kcn-kopernikus.aspx</url>
+	</channel>
+	<channel>
+		<id>302</id><name>KCN Music</name><url>http://mojtv.net/kanal/tv-program/302/kcn-music.aspx</url>
+	</channel>
+	<channel>
+		<id>303</id><name>KCN Svet +</name><url>http://mojtv.net/kanal/tv-program/303/kcn-svet-.aspx</url>
+	</channel>
+	<channel>
+		<id>99</id><name>KIKA</name><url>http://mojtv.net/kanal/tv-program/99/kika.aspx</url>
+	</channel>
+	<channel>
+		<id>273</id><name>Kino</name><url>http://mojtv.net/kanal/tv-program/273/kino.aspx</url>
+	</channel>
+	<channel>
+		<id>184</id><name>Klasik TV</name><url>http://mojtv.net/kanal/tv-program/184/klasik-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>409</id><name>Lov i ribolov</name><url>http://mojtv.net/kanal/tv-program/409/lov-i-ribolov.aspx</url>
+	</channel>
+	<channel>
+		<id>289</id><name>Luxe.TV</name><url>http://mojtv.net/kanal/tv-program/289/luxetv.aspx</url>
+	</channel>
+	<channel>
+		<id>330</id><name>Mediaset Italia</name><url>http://mojtv.net/kanal/tv-program/330/mediaset-italia.aspx</url>
+	</channel>
+	<channel>
+		<id>227</id><name>Mezzo</name><url>http://mojtv.net/kanal/tv-program/227/mezzo.aspx</url>
+	</channel>
+	<channel>
+		<id>89</id><name>Mini TV</name><url>http://mojtv.net/kanal/tv-program/89/mini-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>449</id><name>Mini Ultra TV</name><url>http://mojtv.net/kanal/tv-program/449/mini-ultra-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>7</id><name>MrežaZG</name><url>http://mojtv.net/kanal/tv-program/7/mrezazg.aspx</url>
+	</channel>
+	<channel>
+		<id>165</id><name>MTV</name><url>http://mojtv.net/kanal/tv-program/165/mtv.aspx</url>
+	</channel>
+	<channel>
+		<id>447</id><name>MTV Adria</name><url>http://mojtv.net/kanal/tv-program/447/mtv-adria.aspx</url>
+	</channel>
+	<channel>
+		<id>45</id><name>MTV Base</name><url>http://mojtv.net/kanal/tv-program/45/mtv-base.aspx</url>
+	</channel>
+	<channel>
+		<id>329</id><name>MTV Classic</name><url>http://mojtv.net/kanal/tv-program/329/mtv-classic.aspx</url>
+	</channel>
+	<channel>
+		<id>121</id><name>MTV Dance</name><url>http://mojtv.net/kanal/tv-program/121/mtv-dance.aspx</url>
+	</channel>
+	<channel>
+		<id>46</id><name>MTV Hits</name><url>http://mojtv.net/kanal/tv-program/46/mtv-hits.aspx</url>
+	</channel>
+	<channel>
+		<id>324</id><name>MTV Live HD</name><url>http://mojtv.net/kanal/tv-program/324/mtv-live-hd.aspx</url>
+	</channel>
+	<channel>
+		<id>267</id><name>MTV Music</name><url>http://mojtv.net/kanal/tv-program/267/mtv-music.aspx</url>
+	</channel>
+	<channel>
+		<id>127</id><name>MTV Rocks</name><url>http://mojtv.net/kanal/tv-program/127/mtv-rocks.aspx</url>
+	</channel>
+	<channel>
+		<id>134</id><name>MyZen.tv</name><url>http://mojtv.net/kanal/tv-program/134/myzentv.aspx</url>
+	</channel>
+	<channel>
+		<id>77</id><name>N1</name><url>http://mojtv.net/kanal/tv-program/77/n1.aspx</url>
+	</channel>
+	<channel>
+		<id>258</id><name>N24</name><url>http://mojtv.net/kanal/tv-program/258/n24.aspx</url>
+	</channel>
+	<channel>
+		<id>377</id><name>National Geographic</name><url>http://mojtv.net/kanal/tv-program/377/national-geographic.aspx</url>
+	</channel>
+	<channel>
+		<id>315</id><name>Nick JR</name><url>http://mojtv.net/kanal/tv-program/315/nick-jr.aspx</url>
+	</channel>
+	<channel>
+		<id>88</id><name>Nickelodeon</name><url>http://mojtv.net/kanal/tv-program/88/nickelodeon.aspx</url>
+	</channel>
+	<channel>
+		<id>314</id><name>Nickelodeon HD</name><url>http://mojtv.net/kanal/tv-program/314/nickelodeon-hd.aspx</url>
+	</channel>
+	<channel>
+		<id>3</id><name>NOVA TV</name><url>http://mojtv.net/kanal/tv-program/3/nova-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>26</id><name>OBN</name><url>http://mojtv.net/kanal/tv-program/26/obn.aspx</url>
+	</channel>
+	<channel>
+		<id>90</id><name>ORF1</name><url>http://mojtv.net/kanal/tv-program/90/orf1.aspx</url>
+	</channel>
+	<channel>
+		<id>91</id><name>ORF2</name><url>http://mojtv.net/kanal/tv-program/91/orf2.aspx</url>
+	</channel>
+	<channel>
+		<id>276</id><name>Oto</name><url>http://mojtv.net/kanal/tv-program/276/oto.aspx</url>
+	</channel>
+	<channel>
+		<id>27</id><name>PINK</name><url>http://mojtv.net/kanal/tv-program/27/pink.aspx</url>
+	</channel>
+	<channel>
+		<id>391</id><name>Pink 2</name><url>http://mojtv.net/kanal/tv-program/391/pink-2.aspx</url>
+	</channel>
+	<channel>
+		<id>405</id><name>Pink 3</name><url>http://mojtv.net/kanal/tv-program/405/pink-3.aspx</url>
+	</channel>
+	<channel>
+		<id>421</id><name>Pink Action</name><url>http://mojtv.net/kanal/tv-program/421/pink-action.aspx</url>
+	</channel>
+	<channel>
+		<id>422</id><name>Pink Action 2</name><url>http://mojtv.net/kanal/tv-program/422/pink-action-2.aspx</url>
+	</channel>
+	<channel>
+		<id>423</id><name>Pink Action 3</name><url>http://mojtv.net/kanal/tv-program/423/pink-action-3.aspx</url>
+	</channel>
+	<channel>
+		<id>28</id><name>PINK BH</name><url>http://mojtv.net/kanal/tv-program/28/pink-bh.aspx</url>
+	</channel>
+	<channel>
+		<id>433</id><name>Pink Classic</name><url>http://mojtv.net/kanal/tv-program/433/pink-classic.aspx</url>
+	</channel>
+	<channel>
+		<id>425</id><name>Pink Comedy</name><url>http://mojtv.net/kanal/tv-program/425/pink-comedy.aspx</url>
+	</channel>
+	<channel>
+		<id>428</id><name>Pink Erotic</name><url>http://mojtv.net/kanal/tv-program/428/pink-erotic.aspx</url>
+	</channel>
+	<channel>
+		<id>429</id><name>Pink Erotic 2</name><url>http://mojtv.net/kanal/tv-program/429/pink-erotic-2.aspx</url>
+	</channel>
+	<channel>
+		<id>430</id><name>Pink Erotic 3</name><url>http://mojtv.net/kanal/tv-program/430/pink-erotic-3.aspx</url>
+	</channel>
+	<channel>
+		<id>431</id><name>Pink Erotic 4</name><url>http://mojtv.net/kanal/tv-program/431/pink-erotic-4.aspx</url>
+	</channel>
+	<channel>
+		<id>410</id><name>Pink Extra</name><url>http://mojtv.net/kanal/tv-program/410/pink-extra.aspx</url>
+	</channel>
+	<channel>
+		<id>416</id><name>Pink Family</name><url>http://mojtv.net/kanal/tv-program/416/pink-family.aspx</url>
+	</channel>
+	<channel>
+		<id>414</id><name>Pink Fashion</name><url>http://mojtv.net/kanal/tv-program/414/pink-fashion.aspx</url>
+	</channel>
+	<channel>
+		<id>417</id><name>Pink Film</name><url>http://mojtv.net/kanal/tv-program/417/pink-film.aspx</url>
+	</channel>
+	<channel>
+		<id>427</id><name>Pink Horror</name><url>http://mojtv.net/kanal/tv-program/427/pink-horror.aspx</url>
+	</channel>
+	<channel>
+		<id>411</id><name>Pink Kids</name><url>http://mojtv.net/kanal/tv-program/411/pink-kids.aspx</url>
+	</channel>
+	<channel>
+		<id>393</id><name>Pink M</name><url>http://mojtv.net/kanal/tv-program/393/pink-m.aspx</url>
+	</channel>
+	<channel>
+		<id>418</id><name>Pink Movies</name><url>http://mojtv.net/kanal/tv-program/418/pink-movies.aspx</url>
+	</channel>
+	<channel>
+		<id>419</id><name>Pink Movies 2</name><url>http://mojtv.net/kanal/tv-program/419/pink-movies-2.aspx</url>
+	</channel>
+	<channel>
+		<id>420</id><name>Pink Movies 3</name><url>http://mojtv.net/kanal/tv-program/420/pink-movies-3.aspx</url>
+	</channel>
+	<channel>
+		<id>426</id><name>Pink Pedia</name><url>http://mojtv.net/kanal/tv-program/426/pink-pedia.aspx</url>
+	</channel>
+	<channel>
+		<id>29</id><name>PINK Plus</name><url>http://mojtv.net/kanal/tv-program/29/pink-plus.aspx</url>
+	</channel>
+	<channel>
+		<id>415</id><name>Pink Premium</name><url>http://mojtv.net/kanal/tv-program/415/pink-premium.aspx</url>
+	</channel>
+	<channel>
+		<id>412</id><name>Pink Reality</name><url>http://mojtv.net/kanal/tv-program/412/pink-reality.aspx</url>
+	</channel>
+	<channel>
+		<id>424</id><name>Pink Soap</name><url>http://mojtv.net/kanal/tv-program/424/pink-soap.aspx</url>
+	</channel>
+	<channel>
+		<id>434</id><name>Pink Style</name><url>http://mojtv.net/kanal/tv-program/434/pink-style.aspx</url>
+	</channel>
+	<channel>
+		<id>432</id><name>Pink Western</name><url>http://mojtv.net/kanal/tv-program/432/pink-western.aspx</url>
+	</channel>
+	<channel>
+		<id>413</id><name>Pink Zabava</name><url>http://mojtv.net/kanal/tv-program/413/pink-zabava.aspx</url>
+	</channel>
+	<channel>
+		<id>132</id><name>Playboy TV</name><url>http://mojtv.net/kanal/tv-program/132/playboy-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>137</id><name>Player Channel</name><url>http://mojtv.net/kanal/tv-program/137/player-channel.aspx</url>
+	</channel>
+	<channel>
+		<id>17</id><name>Pop TV</name><url>http://mojtv.net/kanal/tv-program/17/pop-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>95</id><name>PRO7</name><url>http://mojtv.net/kanal/tv-program/95/pro7.aspx</url>
+	</channel>
+	<channel>
+		<id>408</id><name>Prva Plus</name><url>http://mojtv.net/kanal/tv-program/408/prva-plus.aspx</url>
+	</channel>
+	<channel>
+		<id>38</id><name>Prva srpska televizija</name><url>http://mojtv.net/kanal/tv-program/38/prva-srpska-televizija.aspx</url>
+	</channel>
+	<channel>
+		<id>103</id><name>RAI Due</name><url>http://mojtv.net/kanal/tv-program/103/rai-due.aspx</url>
+	</channel>
+	<channel>
+		<id>107</id><name>Rai Sport</name><url>http://mojtv.net/kanal/tv-program/107/rai-sport.aspx</url>
+	</channel>
+	<channel>
+		<id>104</id><name>RAI Tre</name><url>http://mojtv.net/kanal/tv-program/104/rai-tre.aspx</url>
+	</channel>
+	<channel>
+		<id>102</id><name>RAI Uno</name><url>http://mojtv.net/kanal/tv-program/102/rai-uno.aspx</url>
+	</channel>
+	<channel>
+		<id>164</id><name>Rete 4</name><url>http://mojtv.net/kanal/tv-program/164/rete-4.aspx</url>
+	</channel>
+	<channel>
+		<id>176</id><name>RITV</name><url>http://mojtv.net/kanal/tv-program/176/ritv.aspx</url>
+	</channel>
+	<channel>
+		<id>299</id><name>RTB TV</name><url>http://mojtv.net/kanal/tv-program/299/rtb-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>172</id><name>RTCG SAT</name><url>http://mojtv.net/kanal/tv-program/172/rtcg-sat.aspx</url>
+	</channel>
+	<channel>
+		<id>173</id><name>RTCG1</name><url>http://mojtv.net/kanal/tv-program/173/rtcg1.aspx</url>
+	</channel>
+	<channel>
+		<id>174</id><name>RTCG2</name><url>http://mojtv.net/kanal/tv-program/174/rtcg2.aspx</url>
+	</channel>
+	<channel>
+		<id>96</id><name>RTL</name><url>http://mojtv.net/kanal/tv-program/96/rtl.aspx</url>
+	</channel>
+	<channel>
+		<id>4</id><name>RTL</name><url>http://mojtv.net/kanal/tv-program/4/rtl.aspx</url>
+	</channel>
+	<channel>
+		<id>370</id><name>RTL Kockica</name><url>http://mojtv.net/kanal/tv-program/370/rtl-kockica.aspx</url>
+	</channel>
+	<channel>
+		<id>139</id><name>RTL Plus</name><url>http://mojtv.net/kanal/tv-program/139/rtl-plus.aspx</url>
+	</channel>
+	<channel>
+		<id>186</id><name>RTL2</name><url>http://mojtv.net/kanal/tv-program/186/rtl2.aspx</url>
+	</channel>
+	<channel>
+		<id>36</id><name>RTRS</name><url>http://mojtv.net/kanal/tv-program/36/rtrs.aspx</url>
+	</channel>
+	<channel>
+		<id>443</id><name>RTS Digital</name><url>http://mojtv.net/kanal/tv-program/443/rts-digital.aspx</url>
+	</channel>
+	<channel>
+		<id>65</id><name>RTS SAT</name><url>http://mojtv.net/kanal/tv-program/65/rts-sat.aspx</url>
+	</channel>
+	<channel>
+		<id>33</id><name>RTS1</name><url>http://mojtv.net/kanal/tv-program/33/rts1.aspx</url>
+	</channel>
+	<channel>
+		<id>34</id><name>RTS2</name><url>http://mojtv.net/kanal/tv-program/34/rts2.aspx</url>
+	</channel>
+	<channel>
+		<id>175</id><name>RTV Atlas</name><url>http://mojtv.net/kanal/tv-program/175/rtv-atlas.aspx</url>
+	</channel>
+	<channel>
+		<id>279</id><name>Russia Today</name><url>http://mojtv.net/kanal/tv-program/279/russia-today.aspx</url>
+	</channel>
+	<channel>
+		<id>94</id><name>SAT1</name><url>http://mojtv.net/kanal/tv-program/94/sat1.aspx</url>
+	</channel>
+	<channel>
+		<id>452</id><name>Scifi</name><url>http://mojtv.net/kanal/tv-program/452/scifi.aspx</url>
+	</channel>
+	<channel>
+		<id>453</id><name>Servus TV</name><url>http://mojtv.net/kanal/tv-program/453/servus-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>240</id><name>SK4</name><url>http://mojtv.net/kanal/tv-program/240/sk4.aspx</url>
+	</channel>
+	<channel>
+		<id>241</id><name>SK5</name><url>http://mojtv.net/kanal/tv-program/241/sk5.aspx</url>
+	</channel>
+	<channel>
+		<id>242</id><name>SK6</name><url>http://mojtv.net/kanal/tv-program/242/sk6.aspx</url>
+	</channel>
+	<channel>
+		<id>261</id><name>Sky News</name><url>http://mojtv.net/kanal/tv-program/261/sky-news.aspx</url>
+	</channel>
+	<channel>
+		<id>155</id><name>Smile of a Child</name><url>http://mojtv.net/kanal/tv-program/155/smile-of-a-child.aspx</url>
+	</channel>
+	<channel>
+		<id>406</id><name>SOS</name><url>http://mojtv.net/kanal/tv-program/406/sos.aspx</url>
+	</channel>
+	<channel>
+		<id>236</id><name>Sponka Arena</name><url>http://mojtv.net/kanal/tv-program/236/sponka-arena.aspx</url>
+	</channel>
+	<channel>
+		<id>235</id><name>Sponka TV</name><url>http://mojtv.net/kanal/tv-program/235/sponka-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>52</id><name>Sport 1</name><url>http://mojtv.net/kanal/tv-program/52/sport-1.aspx</url>
+	</channel>
+	<channel>
+		<id>399</id><name>SportKlub 1</name><url>http://mojtv.net/kanal/tv-program/399/sportklub-1.aspx</url>
+	</channel>
+	<channel>
+		<id>400</id><name>SportKlub 2</name><url>http://mojtv.net/kanal/tv-program/400/sportklub-2.aspx</url>
+	</channel>
+	<channel>
+		<id>401</id><name>SportKlub 3</name><url>http://mojtv.net/kanal/tv-program/401/sportklub-3.aspx</url>
+	</channel>
+	<channel>
+		<id>360</id><name>Sportskool</name><url>http://mojtv.net/kanal/tv-program/360/sportskool.aspx</url>
+	</channel>
+	<channel>
+		<id>407</id><name>Studio B</name><url>http://mojtv.net/kanal/tv-program/407/studio-b.aspx</url>
+	</channel>
+	<channel>
+		<id>281</id><name>Style Network</name><url>http://mojtv.net/kanal/tv-program/281/style-network.aspx</url>
+	</channel>
+	<channel>
+		<id>101</id><name>Super RTL</name><url>http://mojtv.net/kanal/tv-program/101/super-rtl.aspx</url>
+	</channel>
+	<channel>
+		<id>125</id><name>TCM/Cartoon</name><url>http://mojtv.net/kanal/tv-program/125/tcmcartoon.aspx</url>
+	</channel>
+	<channel>
+		<id>118</id><name>The MGM Channel</name><url>http://mojtv.net/kanal/tv-program/118/the-mgm-channel.aspx</url>
+	</channel>
+	<channel>
+		<id>153</id><name>Tiji</name><url>http://mojtv.net/kanal/tv-program/153/tiji.aspx</url>
+	</channel>
+	<channel>
+		<id>260</id><name>TLC</name><url>http://mojtv.net/kanal/tv-program/260/tlc.aspx</url>
+	</channel>
+	<channel>
+		<id>177</id><name>Top Music</name><url>http://mojtv.net/kanal/tv-program/177/top-music.aspx</url>
+	</channel>
+	<channel>
+		<id>146</id><name>Trace Urban</name><url>http://mojtv.net/kanal/tv-program/146/trace-urban.aspx</url>
+	</channel>
+	<channel>
+		<id>365</id><name>Travel Channel</name><url>http://mojtv.net/kanal/tv-program/365/travel-channel.aspx</url>
+	</channel>
+	<channel>
+		<id>378</id><name>TV 1000</name><url>http://mojtv.net/kanal/tv-program/378/tv-1000.aspx</url>
+	</channel>
+	<channel>
+		<id>21</id><name>TV Koper</name><url>http://mojtv.net/kanal/tv-program/21/tv-koper.aspx</url>
+	</channel>
+	<channel>
+		<id>22</id><name>TV Maribor</name><url>http://mojtv.net/kanal/tv-program/22/tv-maribor.aspx</url>
+	</channel>
+	<channel>
+		<id>182</id><name>TV Novi Sad 1</name><url>http://mojtv.net/kanal/tv-program/182/tv-novi-sad-1.aspx</url>
+	</channel>
+	<channel>
+		<id>183</id><name>TV Novi Sad 2</name><url>http://mojtv.net/kanal/tv-program/183/tv-novi-sad-2.aspx</url>
+	</channel>
+	<channel>
+		<id>19</id><name>TV Slovenija 1</name><url>http://mojtv.net/kanal/tv-program/19/tv-slovenija-1.aspx</url>
+	</channel>
+	<channel>
+		<id>20</id><name>TV Slovenija 2</name><url>http://mojtv.net/kanal/tv-program/20/tv-slovenija-2.aspx</url>
+	</channel>
+	<channel>
+		<id>221</id><name>TV Slovenija 3</name><url>http://mojtv.net/kanal/tv-program/221/tv-slovenija-3.aspx</url>
+	</channel>
+	<channel>
+		<id>123</id><name>TV TK Tuzla</name><url>http://mojtv.net/kanal/tv-program/123/tv-tk-tuzla.aspx</url>
+	</channel>
+	<channel>
+		<id>217</id><name>TV1</name><url>http://mojtv.net/kanal/tv-program/217/tv1.aspx</url>
+	</channel>
+	<channel>
+		<id>23</id><name>TV3 Medias</name><url>http://mojtv.net/kanal/tv-program/23/tv3-medias.aspx</url>
+	</channel>
+	<channel>
+		<id>448</id><name>Ultra TV</name><url>http://mojtv.net/kanal/tv-program/448/ultra-tv.aspx</url>
+	</channel>
+	<channel>
+		<id>444</id><name>Universal Channel</name><url>http://mojtv.net/kanal/tv-program/444/universal-channel.aspx</url>
+	</channel>
+	<channel>
+		<id>87</id><name>VH-1</name><url>http://mojtv.net/kanal/tv-program/87/vh1.aspx</url>
+	</channel>
+	<channel>
+		<id>133</id><name>VH1 Classic</name><url>http://mojtv.net/kanal/tv-program/133/vh1-classic.aspx</url>
+	</channel>
+	<channel>
+		<id>380</id><name>Viasat Explorer</name><url>http://mojtv.net/kanal/tv-program/380/viasat-explorer.aspx</url>
+	</channel>
+	<channel>
+		<id>379</id><name>Viasat History</name><url>http://mojtv.net/kanal/tv-program/379/viasat-history.aspx</url>
+	</channel>
+	<channel>
+		<id>446</id><name>Viasat Nature</name><url>http://mojtv.net/kanal/tv-program/446/viasat-nature.aspx</url>
+	</channel>
+	<channel>
+		<id>152</id><name>VIVA</name><url>http://mojtv.net/kanal/tv-program/152/viva.aspx</url>
+	</channel>
+	<channel>
+		<id>98</id><name>VOX</name><url>http://mojtv.net/kanal/tv-program/98/vox.aspx</url>
+	</channel>
+	<channel>
+		<id>93</id><name>ZDF</name><url>http://mojtv.net/kanal/tv-program/93/zdf.aspx</url>
+	</channel>
+	<channel>
+		<id>156</id><name>ZDF HD</name><url>http://mojtv.net/kanal/tv-program/156/zdf-hd.aspx</url>
+	</channel>
+</mojtv>

@@ -1,4 +1,4 @@
-<div class="wrap">
+﻿<div class="wrap">
     <h2>MojTv Settings</h2>
     <form method="post" action="options.php"> 
         <?php @settings_fields('mojtv-group'); ?>
@@ -14,11 +14,16 @@
                 	<?php
                   	$channels=simplexml_load_file(MOJTV_PLUGIN_CACHE_DIR.'/channels.xml');
 										$chCo = 0;
+										$isArray = is_array(get_option('mojtv_setting_kanali'));
 										foreach($channels->xpath('//channel') as $channel) {
 											if ($chCo%6 == 0) {
 												echo '<tr>';
 											}
-											echo '<td style="padding:0 5px;"><input '. ( in_array($channel->id, get_option('mojtv_setting_kanali')) ? ' checked' : '' ) .' type="checkbox" name="mojtv_setting_kanali[]" value="'. $channel->id .'"> '.$channel->name.'<td>';
+											if($isArray == true) {
+												echo '<td style="padding:0 5px;"><input '. ( in_array($channel->id, get_option('mojtv_setting_kanali')) ? ' checked' : '' ) .' type="checkbox" name="mojtv_setting_kanali[]" value="'. $channel->id .'"> '.$channel->name.'<td>';
+											} else {
+												echo '<td style="padding:0 5px;"><input type="checkbox" name="mojtv_setting_kanali[]" value="'. $channel->id .'"> '.$channel->name.'<td>';
+											}
 											if ($chCo%6 == 5) {
 												echo '</tr>';
 											}

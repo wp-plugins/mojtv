@@ -9,8 +9,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Display latest movies and tv shows for selected tv channels available in Serbia.
 
--------------------------------
-
 Omogucuje prikaz filmova i serija koje se prikazuju na odrabranim tv programima.
 
 == Description ==
@@ -20,7 +18,7 @@ This plug in is in Serbian language.
 
 -------------------------------
 
-Ovaj plugin služi za prikaz filmova ili serija koje se prikazuju na odabranim tv programima. Filmovi ili serije odabranih tv programa prikazuju se na odredenoj stranici ili postu ili u sidebaru pomocu widget-a. Na settings stranici izaberu se željeni tv programi, vreme koje se treba obuhvatiti te da li se prikazuju filmovi ili serije.
+Ovaj plugin sluzi za prikaz filmova ili serija koje se prikazuju na odabranim tv programima. Filmovi ili serije odabranih tv programa prikazuju se na odredenoj stranici ili postu ili u sidebaru pomocu widget-a. Na settings stranici izaberu se zeljeni tv programi, vreme koje se treba obuhvatiti te da li se prikazuju filmovi ili serije.
 
 == Installation ==
 
@@ -43,7 +41,7 @@ On settings page user can choose what to include in the feed and save settings. 
 
 = Kako se koristi? =
 
-Na settings stranici odaberu se željeni parametri te klikne na save. Nakon toga se ili na pojedinu stranicu ili post može staviti [mojtv] short code ili se widget može prebaciti u željeni sidebar.
+Na settings stranici odaberu se zeljeni parametri te klikne na save. Nakon toga se ili na pojedinu stranicu ili post moze staviti [mojtv] short code ili se widget moze prebaciti u zeljeni sidebar.
 
 
 == Screenshots ==
